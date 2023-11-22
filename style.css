@@ -1,0 +1,518 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+
+.Firstpage{
+    background-image: url("./assets/Images/about-us-bg-1_02.png");
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.content1{
+ width: 100%;
+ float: left;
+ align-items: center;
+ text-align: center;
+ margin-top: 200px;
+ margin-bottom: 290px;
+}
+
+.Heading1{
+    color: #e4b833;
+    font-family: 'Montserrat', sans-serif ;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.Secondpage{
+  width: 100%;
+  float: left;
+  background-image: url("./assets/Images/aboutusbg2_09.png");
+}
+
+.container1{
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+}
+
+.image1{
+    width: 100%;
+    float: left;
+}
+
+.directorImage{
+    max-width: 100%;
+}
+
+.content2{
+    width: 100%;
+    float: left;
+}
+.directorImage{
+    max-width: 100%;
+}
+
+.heading2{
+    color: white;
+    font-family: 'Montserrat', sans-serif ;
+    font-size: xx-large;
+    font-weight: 300;
+}
+
+.span1{
+    color: #e4b833;
+    font-weight: bold;
+}
+
+.paraX{
+    color: white;
+    font-family:'Manrope', sans-serif ; 
+}
+
+.ThirdPage{
+    width: 100%;
+    float: left;
+    background-image: url("./assets/Images/aboutusbg3_06.png");
+}
+
+.head3{
+    color: white;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 100;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.span2{
+
+    color: #e4b833;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 600;
+
+}
+
+.arrow-icon{
+    width: 14%;
+    float: left;
+}
+
+.ravlist2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:40px;
+    list-style: none;
+
+}
+
+.ravlist{
+    float: left;
+    width: 100%;
+}
+
+.list1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ravlist2 li{
+    width:calc(50% - 20px);
+    display: flex;
+    justify-content: flex-start;
+}
+
+.paraXX{
+    color: white;
+    font-family:'Manrope', sans-serif ;
+
+}
+
+.content3{
+    
+    float: left;
+    max-width:1600px;
+    display:inline-block;
+    padding:0 20px;
+}
+
+.img{
+    max-width: 100%;
+}
+
+.Fourthpage{
+    float: left;
+    width: 100%;
+    background-image: url("./assets/Images/aboutusbg4_03.png");
+}
+
+.content4{
+    float: left;
+    width: 100%;
+
+}
+
+
+
+.numberLarge{
+    font-size: 80px;
+    
+}
+
+.heading4{
+    color: white;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 100;
+    text-align: center;
+}
+
+.high{
+    color: #e4b833;
+    font-weight: bold;
+    
+}
+
+.paraXXX{
+    color: white;
+    font-family: 'Manrope', sans-serif ;
+    text-align: center;
+}
+
+.pro-highPoints{
+    float: left;
+    width: 100%;
+}
+
+.highPointImg{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.highPointList1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.highPointList1 li{
+    width:calc(33.33% - 10px);
+}
+
+.listimage{
+    max-width: 100%;
+}
+
+.highPointTxt{
+    width: 100%;
+    float: left;
+    position: absolute;
+    bottom: 80px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Manrope', sans-serif ;
+}
+
+.highPointList2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    
+    float: left;
+}
+
+.highPointList2 li{
+    width:calc(50% - 10px);
+}
+
+.img2{
+    max-width: 100%;
+}
+
+.Fifthpage{
+    float: left;
+    width: 100%;
+    background-image: url("./assets/Images/rsmsignaturebg_06.png");
+}
+
+
+.content5{
+    float: left;
+    width: 100%;
+}
+
+
+.head5{
+    float: left;
+    width: 100%;
+    margin-top: 120px;
+}
+
+.heading5{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Montserrat', sans-serif ;
+    font-weight: 600;
+    font-size: xx-large;
+}
+
+.sig{
+    max-width: 100%;
+    
+}
+
+.signatureimage{
+    float: left;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 100px;
+    
+    
+}
+
+
+.sixthpage{
+    background-image: url("./assets/Images/background7.png");
+    width: 100%;
+    float: left;
+    
+}
+
+.Title7{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: xx-large;
+    width: 100%;
+    float: left;
+}
+
+.whitus{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #e4b833;
+}
+
+.Content7{
+    color: white;
+    font-family: 'Manrope', sans-serif ;
+    font-size: small;
+    text-align: center;
+    width: 100%;
+    float: left;
+     
+
+}
+
+.Text7{
+    font-family:'Manrope',sans-serif;
+    font-size:40px;
+    font-weight:800;
+    display: block;
+    color: white;
+    
+    
+}
+
+.container7{
+    width: 100%;
+    float: left;
+    margin-top:100px;
+    margin-bottom: 100px;
+}
+
+.pixTxtspan{
+    font-size:16px;
+    font-weight:600;
+    display:block;
+    color: white;
+}
+
+.List7{
+    width: 100%;
+    float: left;
+    }
+.Heading7{
+    float: left;
+    width: 100%;
+}
+
+.listCard{
+ display:flex;
+ justify-content:flex-start;
+ margin-top:70px;
+ list-style:none;
+ align-items:center;
+ flex-wrap:wrap;
+
+}
+
+.listCard li{
+    width:calc(20% - 10px);
+    float:left;
+}
+
+
+.picImg{
+    float:left;
+}
+
+.picImg img{
+    max-width:100%;
+    float:left;
+}
+
+
+.picTxt{
+    float:left;
+}
+
+.Pic{display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:15px;
+    
+
+}
+
+.Seventhpage{
+    width: 100%;
+    float: left;
+    background-image: url("./assets/Images/seventhbg_14.png");
+}
+
+.awardimage{
+    float: left;
+    width: 100%;
+    
+}
+
+.imgaward{
+    max-width: 100%;
+}
+
+.mainHead{
+    width: 100%;
+    float: left;
+}
+
+.mainhead{
+   width: 100%;
+   float: left;
+    color: white 
+}
+
+.mainheadTitle{
+    width: 100%;
+    float: left;
+     font-family: 'Montserrat', sans-serif; 
+     font-weight: 100;
+}
+
+.mainheadcolorTit{
+  color: #e4b833;
+  font-weight: bold;
+}
+
+.mainheadsubTitle{
+   float: left;
+    width: 100%;
+    font-family: 'Manrope',sans-serif;
+
+}
+
+.sponser{
+    float: left;
+    width: 100%;
+    margin-top:50px;
+}
+
+.sponserList{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:20px;
+    list-style: none;
+}
+
+.sponsorBox{
+    width: 100%;
+    float: left;
+}
+
+.sponserList li{
+    width:calc(33.33% - 15px);
+    margin-bottom:20px;
+}
+
+.content7{
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    float: left;
+    padding: 30px;
+}
+
+.sponserBox h2{
+    font-family: 'Manrope',sans-serif;
+    color: aliceblue;
+    font-weight: 100;
+    font-size: small;
+
+}
+
+.brandimage{
+    max-width: 100%;
+}
+
+.awardsec{
+    display:flex;
+    justify-content:flex-start;
+    gap:5rem;
+    align-items:center;
+}
+
+.lastpageabout{
+    float: left;
+    width: 100%;
+    background-image: url("./assets/Images/background-last_03.png");
+}
+
+.last{
+    float: left;
+    width: 100%;
+}
+
+.lastpic{
+    max-width: 100%;
+}
+
+.lastlist{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    align-items: flex-end;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    gap: 15px;
+}
+
+*{outline:none;box-sizing:border-box;margin:0;padding:0;}
